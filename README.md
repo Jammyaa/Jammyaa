@@ -4,9 +4,9 @@
 - 📫 How to reach me (My Twitter: https://twitter.com/Jammyaa2k)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducchinh1912&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jammyaa&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducchinh1912&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jammyaa&layout=compact)
 
 If you find any of my repositories to be helpful, please give me stars ⭐ as an encouragement!
 
