@@ -1,6 +1,6 @@
 - 👋 Hello, I'm Chinh, a blockchain developer. I am striving to become a good expert in this field.
-- 🌱 I’m currently programming on Ethereum (EVM) and Cosmos. Recently, I learned more about Aptos and Sui's Move contract programming language - a new generation blockchain with high throughput.
-- 💞️ My hobbies are reading, playing chess and watching Manchester United play. Yes, I love this club very much.
+- 🌱 I’m currently programming on Ethereum (EVM) and Cosmos. Recently, I start my part-time job as a warden in Code4rena.
+- 💞️ My hobbies are reading, playing chess, and watching Manchester United play. Yes, I love this club very much.
 - 📫 How to reach me (My Twitter: https://twitter.com/Jammyaa2k)
 
 
